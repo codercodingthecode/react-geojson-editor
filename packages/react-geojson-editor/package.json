@@ -49,7 +49,7 @@
   },
   "dependencies": {
     "@turf/area": "6.0.1",
-    "@turf/difference": "6.0.2",
+    "@turf/difference": "6.0.1",
     "codecov": "^3.2.0",
     "coveralls": "^3.0.3",
     "scriptjs": "2.5.9"
